@@ -1,16 +1,15 @@
 # notes_app
 
-A new Flutter project.
+A PoC notes app written in Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please see the following youtube for the template we are following with this app: https://www.youtube.com/watch?v=mMgr47QBZWA&ab_channel=MitchKoko
 
-A few resources to get you started if this is your first Flutter project:
+## ToDo List
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] Improve the app styling
+- [ ] Finish off dynamic task creation
+- [ ] Add task deletion feature
+- [ ] Saving functionality (to device/remote storage)
+- [ ] Task edit functionality
