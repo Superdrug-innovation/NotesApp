@@ -13,3 +13,8 @@ Please see the following youtube for the template we are following with this app
 - [ ] Add task deletion feature
 - [ ] Saving functionality (to device/remote storage)
 - [ ] Task edit functionality
+
+
+##Inspo
+
+https://dribbble.com/shots/21415301-Task-Management-App
