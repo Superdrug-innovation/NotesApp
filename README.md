@@ -15,6 +15,6 @@ Please see the following youtube for the template we are following with this app
 - [ ] Task edit functionality
 
 
-##Inspo
+## Inspo
 
 https://dribbble.com/shots/21415301-Task-Management-App
