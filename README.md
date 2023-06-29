@@ -1,6 +1,6 @@
 # notes_app
 
-A PoC notes app written in Flutter. test
+A PoC notes app written in Flutter.
 
 ## Getting Started
 
